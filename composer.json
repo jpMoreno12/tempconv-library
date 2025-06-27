@@ -1,5 +1,5 @@
 {
-    "name": "mod/tempconv-library",
+    "name": "modnexusq/tempconv-library",
     "description": "aprendendo a criar uma lib",
     "require": {
         "guzzlehttp/guzzle": "^7.0",
